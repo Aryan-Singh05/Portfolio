@@ -5,7 +5,7 @@
 ### B.Tech CSE Student · Building My Way Into Software Development
 
 [![GitHub](https://img.shields.io/badge/GitHub-Aryan--Singh05-181717?style=for-the-badge&logo=github)](https://github.com/Aryan-Singh05)
-[![Email](https://img.shields.io/badge/Email-aryan.singh%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryan.singh@gmail.com)
+[![Email](https://img.shields.io/badge/Email-aryan.singh%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryan.singh50808@gmail.com)
 [![Status](https://img.shields.io/badge/Status-Learning%20%26%20Building-2ea44f?style=for-the-badge)]()
 
 </div>
@@ -88,15 +88,14 @@ A responsive personal site with sections for projects, skills, and contact info 
 ## 🙌 Experience & Activities
 
 **School Social Media & Content Team** — School-level
-- Created and supported social-media content and promotional material for school events
-- Worked on visual/content ideas and presenting information in an engaging way
-- This is where my interest in digital communication and content creation started
+- Created and supported social-media content and promotional material for school events.
+- Worked on visual/content ideas and presenting information in an engaging way.
 
 ---
 
 ## 🏆 Certifications & Achievements
 
-- 🔵 **Blue Tie Award** — scored above 80% for 6 consecutive years
+- 🔵 **Blue Tie Award** — scored above 90% for 6 consecutive years
 - 🧑‍🏫 **Peer Educator** — conducted a Life Skills session for juniors
 - 🏏 **Cricket Team Member** — 3rd place, Inter-house Cricket Tournament
 
@@ -110,7 +109,7 @@ A responsive personal site with sections for projects, skills, and contact info 
 
 ## 📫 Reach Me
 
-- **Email:** aryan.singh@gmail.com
+- **Email:** aryan.singh50808@gmail.com
 - **Phone:** 9870146670
 - **GitHub:** [@Aryan-Singh05](https://github.com/Aryan-Singh05)
 
