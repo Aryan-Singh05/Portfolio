@@ -108,16 +108,6 @@ A responsive personal site with sections for projects, skills, and contact info 
 
 ---
 
-## 📈 Roadmap
-
-- [ ] Finish and publish the Student Expense Tracker
-- [ ] Build and deploy personal portfolio site
-- [ ] Contribute to first open-source issue
-- [ ] Join a hackathon team
-- [ ] Learn a backend framework (Flask or Node.js) once Python fundamentals are solid
-
----
-
 ## 📫 Reach Me
 
 - **Email:** aryan.singh@gmail.com
